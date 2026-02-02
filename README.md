@@ -99,7 +99,7 @@ Opportunity to implement Targeted Advertising Campaigns.
 
 Focus on retaining repeat customers for sustainable growth.
 
-<img width="1500" height="605" alt="image" src="https://github.com/user-attachments/assets/aa80e2cb-5144-4e77-9c47-f28cbdd4d8e3" />
+<img width="402" height="250" alt="image" src="https://github.com/user-attachments/assets/aa80e2cb-5144-4e77-9c47-f28cbdd4d8e3" />
 
 
 **Dashboard**
@@ -133,8 +133,11 @@ KPI Calculations
 **Conclusion & Recommendations**
 
 ✔️ Sales peak during February, August, and November
+
 ✔️ Anniversary and Raksha Bandhan generate strong revenue
+
 ✔️ Colors, Soft Toys, and Sweets are top-selling categories
+
 ✔️ Targeted marketing can improve revenue from high-value customers
 
 **Strategic Suggestions:**
