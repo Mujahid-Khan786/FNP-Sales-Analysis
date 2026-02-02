@@ -5,8 +5,7 @@ This project presents a comprehensive sales data analysis of FNP (Ferns N Petals
 
 The analysis focuses on revenue trends, customer behavior, product performance, and seasonal demand patterns.
 
-**Problem Statements
-**
+**Problem Statements**
 The project answers the following key business questions:
 
 What is the Total Revenue of the business?
