@@ -1,4 +1,4 @@
-FNP Sales Data Analysis Project
+#FNP Sales Data Analysis Project
 Project Overview
 
 This project presents a comprehensive sales data analysis of FNP (Ferns N Petals) business performance. The objective is to extract meaningful business insights from sales data and help improve decision-making using data-driven strategies.
