@@ -49,7 +49,7 @@ These months show significantly higher demand compared to others.
 
 Increase inventory and marketing efforts during peak months to maximize revenue.
 
-Occasion-wise Sales Performance
+**Occasion-wise Sales Performance**
 
 Strong Revenue from:
 
