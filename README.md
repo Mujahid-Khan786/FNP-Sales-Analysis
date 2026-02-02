@@ -1,5 +1,5 @@
 # FNP Sales Data Analysis Project
-Project Overview
+**Project Overview**
 
 This project presents a comprehensive sales data analysis of FNP (Ferns N Petals) business performance. The objective is to extract meaningful business insights from sales data and help improve decision-making using data-driven strategies.
 
@@ -23,7 +23,7 @@ Which cities contribute the highest revenue?
 
 What is the Average Customer Spending?
 
-Business Overview
+**Business Overview**
 
 Total Orders: 1000
 
@@ -31,7 +31,7 @@ Total Revenue : ₹3,520,984
 
 Average Customer Spending : ₹3,521
 
-Monthly Sales Performance
+**Monthly Sales Performance**
 
 Peak Months:
 
@@ -45,7 +45,8 @@ These months show significantly higher demand compared to others.
 
 <img width="408" height="258" alt="image" src="https://github.com/user-attachments/assets/d369577d-a665-400b-bbee-25e2978c6371" />
 
-Recommendation:
+**Recommendation:**
+
 Increase inventory and marketing efforts during peak months to maximize revenue.
 
 Occasion-wise Sales Performance
@@ -60,7 +61,7 @@ Insight: Seasonal and emotional occasions drive higher customer spending.
 
 <img width="408" height="249" alt="image" src="https://github.com/user-attachments/assets/ea7d8d40-ebb7-47b0-a77e-d01f5fc868c0" />
 
-Revenue by Product Category
+**Revenue by Product Category**
 
 Top Performing Categories:
 
@@ -75,7 +76,7 @@ These categories contribute the highest revenue and demand.
 <img width="373" height="258" alt="image" src="https://github.com/user-attachments/assets/0a4c8251-e837-46b1-a5bc-8f08e78fd90f" />
 
 
-Revenue by City
+**Revenue by City**
 
 Top Revenue-Contributing Cities:
 
@@ -90,7 +91,7 @@ These cities are major revenue drivers for the business.
 <img width="402" height="251" alt="image" src="https://github.com/user-attachments/assets/169d4bd3-7aaa-4d18-ac2e-a436d013ec99" />
 
 
-Customer & Product Insights
+**Customer & Product Insights**
 
 A small group of customers drives a major portion of revenue.
 
@@ -98,10 +99,10 @@ Opportunity to implement Targeted Advertising Campaigns.
 
 Focus on retaining repeat customers for sustainable growth.
 
-<img width="373" height="258" alt="image" src="https://github.com/user-attachments/assets/bcf9245d-9a75-4802-8a45-3f0a4946e96f" />
+<img width="1500" height="605" alt="image" src="https://github.com/user-attachments/assets/aa80e2cb-5144-4e77-9c47-f28cbdd4d8e3" />
 
 
-Dashboard
+**Dashboard**
 
 The project includes an interactive Excel Dashboard showcasing:
 
@@ -115,7 +116,7 @@ City-wise Revenue Analysis
 
 Key KPIs (Total Orders, Revenue, Average Spending)
 
-Tools Used
+**Tools Used**
 
 Microsoft Excel
 
@@ -129,14 +130,14 @@ Data Cleaning
 
 KPI Calculations
 
-Conclusion & Recommendations
+**Conclusion & Recommendations**
 
 ✔️ Sales peak during February, August, and November
 ✔️ Anniversary and Raksha Bandhan generate strong revenue
 ✔️ Colors, Soft Toys, and Sweets are top-selling categories
 ✔️ Targeted marketing can improve revenue from high-value customers
 
-Strategic Suggestions:
+**Strategic Suggestions:**
 
 Manage inventory efficiently during peak months
 
@@ -146,6 +147,6 @@ Focus on repeat customers using personalized marketing
 
 Expand marketing in high-performing cities
 
-👨‍💻 Author
+**Author**
 
 Mujahid Khan
