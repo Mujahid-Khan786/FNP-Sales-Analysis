@@ -42,6 +42,7 @@ August
 November
 
 These months show significantly higher demand compared to others.
+
 <img width="408" height="258" alt="image" src="https://github.com/user-attachments/assets/d369577d-a665-400b-bbee-25e2978c6371" />
 
 Recommendation:
@@ -56,6 +57,7 @@ Anniversary
 Raksha Bandhan
 
 Insight: Seasonal and emotional occasions drive higher customer spending.
+
 <img width="408" height="249" alt="image" src="https://github.com/user-attachments/assets/ea7d8d40-ebb7-47b0-a77e-d01f5fc868c0" />
 
 Revenue by Product Category
@@ -95,6 +97,7 @@ A small group of customers drives a major portion of revenue.
 Opportunity to implement Targeted Advertising Campaigns.
 
 Focus on retaining repeat customers for sustainable growth.
+
 <img width="373" height="258" alt="image" src="https://github.com/user-attachments/assets/bcf9245d-9a75-4802-8a45-3f0a4946e96f" />
 
 
